@@ -1,0 +1,3783 @@
+{
+  "api_live_vessels": {
+    "timestamp": "2026-03-19T14:30:00Z",
+    "count": 50,
+    "vessels": [
+      {
+        "mmsi": "671226100",
+        "vessel_name": "RELIANCE II",
+        "imo": "IMO9221322",
+        "callsign": "5VHS7",
+        "vessel_type": "cargo",
+        "vessel_type_code": 70,
+        "lat": 1.191,
+        "lng": 103.6579,
+        "sog": 0.3,
+        "cog": 243.6,
+        "heading": 321,
+        "status": "anchored",
+        "length": 52.0,
+        "width": 12.0,
+        "draft": 2.5,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1914,
+            "lng": 103.6586,
+            "sog": 0.6,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1912,
+            "lng": 103.6583,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.191,
+            "lng": 103.6579,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367452810",
+        "vessel_name": "JOHN W JOHNSON",
+        "imo": "IMO9602344",
+        "callsign": "WDF4516",
+        "vessel_type": "cargo",
+        "vessel_type_code": 70,
+        "lat": 1.176,
+        "lng": 103.9249,
+        "sog": 12.4,
+        "cog": 266.0,
+        "heading": 266,
+        "status": "underway",
+        "length": 80.0,
+        "width": 19.0,
+        "draft": 3.0,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1784,
+            "lng": 103.9592,
+            "sog": 12.8,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1772,
+            "lng": 103.9421,
+            "sog": 12.4,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.176,
+            "lng": 103.9249,
+            "sog": 12.4,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "366919770",
+        "vessel_name": "LYNN MARIE",
+        "imo": "IMO9253583",
+        "callsign": "WDB6192",
+        "vessel_type": "tug",
+        "vessel_type_code": 52,
+        "lat": 1.1436,
+        "lng": 103.8018,
+        "sog": 0.4,
+        "cog": 121.2,
+        "heading": 33,
+        "status": "anchored",
+        "length": 29.0,
+        "width": 12.0,
+        "draft": 3.8,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1442,
+            "lng": 103.8009,
+            "sog": 0.9,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1439,
+            "lng": 103.8013,
+            "sog": 0.7,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1436,
+            "lng": 103.8018,
+            "sog": -0.0,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "366918650",
+        "vessel_name": "POINT CLEAR",
+        "imo": "IMO8972948",
+        "callsign": "WDB6128",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.2389,
+        "lng": 104.0403,
+        "sog": 0.2,
+        "cog": 298.6,
+        "heading": 222,
+        "status": "anchored",
+        "length": 30.0,
+        "width": 10.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2386,
+            "lng": 104.0408,
+            "sog": -0.1,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2388,
+            "lng": 104.0405,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2389,
+            "lng": 104.0403,
+            "sog": -0.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "311000966",
+        "vessel_name": "KYDON",
+        "imo": "IMO8916607",
+        "callsign": "C6EP8",
+        "vessel_type": "cargo",
+        "vessel_type_code": 70,
+        "lat": 1.2091,
+        "lng": 104.0332,
+        "sog": 0.0,
+        "cog": 83.8,
+        "heading": 36,
+        "status": "anchored",
+        "length": 192.0,
+        "width": 27.0,
+        "draft": 6.4,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2091,
+            "lng": 104.0332,
+            "sog": -0.1,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2091,
+            "lng": 104.0332,
+            "sog": 0.4,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2091,
+            "lng": 104.0332,
+            "sog": -0.2,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "219028420",
+        "vessel_name": "TORM CORRIDO",
+        "imo": "IMO9411305",
+        "callsign": "OZNT2",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.2181,
+        "lng": 103.924,
+        "sog": 10.7,
+        "cog": 90.8,
+        "heading": 93,
+        "status": "underway",
+        "length": 182.0,
+        "width": 32.0,
+        "draft": 10.8,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2185,
+            "lng": 103.8943,
+            "sog": 11.1,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2183,
+            "lng": 103.9092,
+            "sog": 10.9,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2181,
+            "lng": 103.924,
+            "sog": 11.0,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "354499000",
+        "vessel_name": "MSC ESTHI",
+        "imo": "IMO9304411",
+        "callsign": "3EFU3",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.2423,
+        "lng": 103.8411,
+        "sog": 7.2,
+        "cog": 350.9,
+        "heading": 348,
+        "status": "underway",
+        "length": 336.0,
+        "width": 45.0,
+        "draft": 15.0,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2226,
+            "lng": 103.8443,
+            "sog": 7.5,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2324,
+            "lng": 103.8427,
+            "sog": 7.3,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2423,
+            "lng": 103.8411,
+            "sog": 7.2,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367384780",
+        "vessel_name": "CAROLYN DOROTHY",
+        "imo": "IMO9552288",
+        "callsign": "WDE6786",
+        "vessel_type": "other",
+        "vessel_type_code": 99,
+        "lat": 1.2326,
+        "lng": 103.8393,
+        "sog": 6.0,
+        "cog": 355.5,
+        "heading": 358,
+        "status": "underway",
+        "length": 23.0,
+        "width": 10.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.216,
+            "lng": 103.8406,
+            "sog": 5.8,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2243,
+            "lng": 103.84,
+            "sog": 6.0,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2326,
+            "lng": 103.8393,
+            "sog": 6.2,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367560990",
+        "vessel_name": "ATLAS",
+        "imo": "IMO9641754",
+        "callsign": "WDG6819",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.2034,
+        "lng": 103.7118,
+        "sog": 0.2,
+        "cog": 79.0,
+        "heading": 359,
+        "status": "anchored",
+        "length": 28.0,
+        "width": 12.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2033,
+            "lng": 103.7113,
+            "sog": 0.1,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2033,
+            "lng": 103.7115,
+            "sog": 0.2,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2034,
+            "lng": 103.7118,
+            "sog": 0.3,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367743710",
+        "vessel_name": "ISLAND MERCHANT",
+        "imo": "IMO8971592",
+        "callsign": "WDI8942",
+        "vessel_type": "other",
+        "vessel_type_code": 99,
+        "lat": 1.1969,
+        "lng": 103.6451,
+        "sog": 0.2,
+        "cog": 358.6,
+        "heading": 190,
+        "status": "anchored",
+        "length": 19.0,
+        "width": null,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1963,
+            "lng": 103.6451,
+            "sog": 0.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1966,
+            "lng": 103.6451,
+            "sog": 0.8,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1969,
+            "lng": 103.6451,
+            "sog": 0.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367625810",
+        "vessel_name": "VETERAN",
+        "imo": "IMO9765720",
+        "callsign": "WDH5227",
+        "vessel_type": "passenger",
+        "vessel_type_code": 60,
+        "lat": 1.2105,
+        "lng": 103.8685,
+        "sog": 12.7,
+        "cog": 82.5,
+        "heading": 81,
+        "status": "underway",
+        "length": 31.0,
+        "width": 12.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2059,
+            "lng": 103.8336,
+            "sog": 12.4,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2082,
+            "lng": 103.851,
+            "sog": 12.8,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2105,
+            "lng": 103.8685,
+            "sog": 13.3,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "356436000",
+        "vessel_name": "EVERGLORY",
+        "imo": "IMO8512889",
+        "callsign": "3EPI9",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.1954,
+        "lng": 104.0563,
+        "sog": 7.4,
+        "cog": 80.3,
+        "heading": 79,
+        "status": "underway",
+        "length": 225.0,
+        "width": 32.0,
+        "draft": 13.2,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1919,
+            "lng": 104.0361,
+            "sog": 7.8,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1937,
+            "lng": 104.0462,
+            "sog": 7.3,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1954,
+            "lng": 104.0563,
+            "sog": 7.3,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367438530",
+        "vessel_name": "CAPT PEYTON P",
+        "imo": "IMO9593050",
+        "callsign": "WDF3321",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.2311,
+        "lng": 104.0524,
+        "sog": 0.0,
+        "cog": 116.7,
+        "heading": 7,
+        "status": "anchored",
+        "length": 44.0,
+        "width": 9.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2311,
+            "lng": 104.0524,
+            "sog": 0.6,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2311,
+            "lng": 104.0524,
+            "sog": -0.3,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2311,
+            "lng": 104.0524,
+            "sog": 0.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367482310",
+        "vessel_name": "DON OSCAR P",
+        "imo": "IMO7621839",
+        "callsign": "WDF7223",
+        "vessel_type": "other",
+        "vessel_type_code": 99,
+        "lat": 1.2184,
+        "lng": 103.6428,
+        "sog": 6.9,
+        "cog": 79.0,
+        "heading": 83,
+        "status": "underway",
+        "length": 30.0,
+        "width": 9.0,
+        "draft": 3.0,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2147,
+            "lng": 103.624,
+            "sog": 7.1,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2166,
+            "lng": 103.6334,
+            "sog": 6.9,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2184,
+            "lng": 103.6428,
+            "sog": 6.7,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367543860",
+        "vessel_name": "GEORGETOWN",
+        "imo": "IMO7202413",
+        "callsign": "WDG5154",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.178,
+        "lng": 104.0362,
+        "sog": 5.1,
+        "cog": 267.4,
+        "heading": 271,
+        "status": "underway",
+        "length": 25.0,
+        "width": 9.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1786,
+            "lng": 104.0503,
+            "sog": 5.1,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1783,
+            "lng": 104.0433,
+            "sog": 4.9,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.178,
+            "lng": 104.0362,
+            "sog": 4.7,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367446290",
+        "vessel_name": "MISS QUYNH ANH III",
+        "imo": "IMO8970031",
+        "callsign": "WDF3970",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.2007,
+        "lng": 103.6497,
+        "sog": 0.1,
+        "cog": 121.7,
+        "heading": 211,
+        "status": "anchored",
+        "length": 27.0,
+        "width": 8.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2008,
+            "lng": 103.6495,
+            "sog": 1.0,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2008,
+            "lng": 103.6496,
+            "sog": 0.1,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2007,
+            "lng": 103.6497,
+            "sog": 0.3,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "366816890",
+        "vessel_name": "BUNNY BORDELON",
+        "imo": "IMO9260756",
+        "callsign": "WDA5139",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.1969,
+        "lng": 104.0527,
+        "sog": 7.3,
+        "cog": 90.3,
+        "heading": 91,
+        "status": "underway",
+        "length": 44.0,
+        "width": 10.0,
+        "draft": 3.0,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.197,
+            "lng": 104.0325,
+            "sog": 7.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.197,
+            "lng": 104.0426,
+            "sog": 7.1,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1969,
+            "lng": 104.0527,
+            "sog": 7.8,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "636019181",
+        "vessel_name": "PACIFIC JADE",
+        "imo": "IMO9867803",
+        "callsign": "D5TH8",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.2114,
+        "lng": 103.7046,
+        "sog": 0.1,
+        "cog": 34.9,
+        "heading": 155,
+        "status": "anchored",
+        "length": 183.0,
+        "width": 32.0,
+        "draft": 12.3,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2112,
+            "lng": 103.7044,
+            "sog": 0.6,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2113,
+            "lng": 103.7045,
+            "sog": -0.2,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2114,
+            "lng": 103.7046,
+            "sog": 0.3,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367309420",
+        "vessel_name": "PARAGON",
+        "imo": "IMO7802627",
+        "callsign": "WDD9285",
+        "vessel_type": "tug",
+        "vessel_type_code": 52,
+        "lat": 1.2394,
+        "lng": 104.0179,
+        "sog": 0.2,
+        "cog": 122.1,
+        "heading": 310,
+        "status": "anchored",
+        "length": 30.0,
+        "width": 9.0,
+        "draft": 4.1,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2397,
+            "lng": 104.0174,
+            "sog": 0.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2395,
+            "lng": 104.0177,
+            "sog": 0.4,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2394,
+            "lng": 104.0179,
+            "sog": -0.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367432090",
+        "vessel_name": "R/V SUNCOASTER",
+        "imo": "IMO367432090",
+        "callsign": "WDF2805",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.2177,
+        "lng": 103.8216,
+        "sog": 12.2,
+        "cog": 87.7,
+        "heading": 86,
+        "status": "underway",
+        "length": 36.0,
+        "width": 8.0,
+        "draft": 3.0,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2163,
+            "lng": 103.7878,
+            "sog": 12.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.217,
+            "lng": 103.8047,
+            "sog": 12.8,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2177,
+            "lng": 103.8216,
+            "sog": 12.2,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367384460",
+        "vessel_name": "MAVERICK",
+        "imo": "IMO8855073",
+        "callsign": "WDE6757",
+        "vessel_type": "other",
+        "vessel_type_code": 99,
+        "lat": 1.2539,
+        "lng": 103.81,
+        "sog": 6.9,
+        "cog": 351.8,
+        "heading": 354,
+        "status": "underway",
+        "length": 25.0,
+        "width": 7.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.235,
+            "lng": 103.8127,
+            "sog": 7.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2444,
+            "lng": 103.8114,
+            "sog": 7.0,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2539,
+            "lng": 103.81,
+            "sog": 7.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "366759130",
+        "vessel_name": "WSF PUYALLUP",
+        "imo": "IMO9137363",
+        "callsign": "WCY7938",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.2169,
+        "lng": 104.0866,
+        "sog": 0.4,
+        "cog": 200.1,
+        "heading": 258,
+        "status": "anchored",
+        "length": 138.0,
+        "width": 27.0,
+        "draft": 5.3,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2179,
+            "lng": 104.087,
+            "sog": 0.4,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2174,
+            "lng": 104.0868,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2169,
+            "lng": 104.0866,
+            "sog": 0.6,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367394940",
+        "vessel_name": "ESCAMBIA",
+        "imo": "IMO9190951",
+        "callsign": "WDE7575",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.2417,
+        "lng": 103.8449,
+        "sog": 3.3,
+        "cog": 341.8,
+        "heading": 340,
+        "status": "maneuvering",
+        "length": 27.0,
+        "width": 15.0,
+        "draft": 1.6,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.233,
+            "lng": 103.8478,
+            "sog": 3.4,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2374,
+            "lng": 103.8463,
+            "sog": 3.2,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2417,
+            "lng": 103.8449,
+            "sog": 3.4,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367721050",
+        "vessel_name": "WANDA ISABELLE",
+        "imo": "IMO8635411",
+        "callsign": "WDI6672",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.2103,
+        "lng": 103.7176,
+        "sog": 3.6,
+        "cog": 84.2,
+        "heading": 85,
+        "status": "maneuvering",
+        "length": 17.0,
+        "width": 6.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2093,
+            "lng": 103.7077,
+            "sog": 3.5,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2098,
+            "lng": 103.7126,
+            "sog": 3.3,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2103,
+            "lng": 103.7176,
+            "sog": 3.4,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "338570000",
+        "vessel_name": "BAYPORT",
+        "imo": "IMO8993784",
+        "callsign": "WCZ4240",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.1857,
+        "lng": 104.0674,
+        "sog": 4.0,
+        "cog": 263.8,
+        "heading": 261,
+        "status": "maneuvering",
+        "length": 90.0,
+        "width": 16.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1869,
+            "lng": 104.0784,
+            "sog": 3.6,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1863,
+            "lng": 104.0729,
+            "sog": 4.3,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1857,
+            "lng": 104.0674,
+            "sog": 3.9,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "564702000",
+        "vessel_name": "EPIC CURACAO",
+        "imo": "IMO9698288",
+        "callsign": "9V2515",
+        "vessel_type": "cargo",
+        "vessel_type_code": 70,
+        "lat": 1.2183,
+        "lng": 104.0899,
+        "sog": 0.4,
+        "cog": 26.4,
+        "heading": 76,
+        "status": "anchored",
+        "length": 95.0,
+        "width": 15.0,
+        "draft": 5.5,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2173,
+            "lng": 104.0894,
+            "sog": 0.6,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2178,
+            "lng": 104.0897,
+            "sog": 0.3,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2183,
+            "lng": 104.0899,
+            "sog": 1.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "366991260",
+        "vessel_name": "CAPT JOHN E GRAHAM",
+        "imo": "IMO8988428",
+        "callsign": "WDC2329",
+        "vessel_type": "other",
+        "vessel_type_code": 99,
+        "lat": 1.1448,
+        "lng": 103.8021,
+        "sog": 0.3,
+        "cog": 253.3,
+        "heading": 220,
+        "status": "anchored",
+        "length": 41.0,
+        "width": 10.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.145,
+            "lng": 103.8029,
+            "sog": 0.7,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1449,
+            "lng": 103.8025,
+            "sog": 0.3,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1448,
+            "lng": 103.8021,
+            "sog": 0.9,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "316011408",
+        "vessel_name": "COASTAL INSPIRATION",
+        "imo": "IMO9332767",
+        "callsign": "CFN4970",
+        "vessel_type": "tug",
+        "vessel_type_code": 52,
+        "lat": 1.2182,
+        "lng": 103.6671,
+        "sog": 4.7,
+        "cog": 85.7,
+        "heading": 88,
+        "status": "maneuvering",
+        "length": 160.0,
+        "width": 28.0,
+        "draft": 5.8,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2172,
+            "lng": 103.6541,
+            "sog": 4.9,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2177,
+            "lng": 103.6606,
+            "sog": 4.6,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2182,
+            "lng": 103.6671,
+            "sog": 5.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "368926303",
+        "vessel_name": "USNS WESTWIND",
+        "imo": "IMO9472359",
+        "callsign": "NWES",
+        "vessel_type": "cargo",
+        "vessel_type_code": 70,
+        "lat": 1.2254,
+        "lng": 104.0311,
+        "sog": 0.2,
+        "cog": 325.9,
+        "heading": 304,
+        "status": "anchored",
+        "length": 76.0,
+        "width": 17.0,
+        "draft": 4.3,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2249,
+            "lng": 104.0314,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2252,
+            "lng": 104.0313,
+            "sog": 0.4,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2254,
+            "lng": 104.0311,
+            "sog": 0.2,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367379190",
+        "vessel_name": "EAGLE",
+        "imo": "IMO8207721",
+        "callsign": "WTD4583",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.2105,
+        "lng": 104.0693,
+        "sog": 0.2,
+        "cog": 154.0,
+        "heading": 3,
+        "status": "anchored",
+        "length": 28.0,
+        "width": 11.0,
+        "draft": 3.3,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.211,
+            "lng": 104.0691,
+            "sog": 0.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2107,
+            "lng": 104.0692,
+            "sog": 0.8,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2105,
+            "lng": 104.0693,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "316020878",
+        "vessel_name": "ROSE MACKENZIE",
+        "imo": "IMO7233254",
+        "callsign": "CFG7415",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.1634,
+        "lng": 103.8616,
+        "sog": 0.1,
+        "cog": 45.9,
+        "heading": 110,
+        "status": "anchored",
+        "length": 22.0,
+        "width": 7.0,
+        "draft": 3.7,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1632,
+            "lng": 103.8614,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1633,
+            "lng": 103.8615,
+            "sog": -0.2,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1634,
+            "lng": 103.8616,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "210080000",
+        "vessel_name": "VIRGEN DEL CISNE",
+        "imo": "IMO9428372",
+        "callsign": "5BQP5",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.1931,
+        "lng": 103.9901,
+        "sog": 12.3,
+        "cog": 71.9,
+        "heading": 68,
+        "status": "underway",
+        "length": 183.0,
+        "width": 32.0,
+        "draft": 8.0,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1825,
+            "lng": 103.9577,
+            "sog": 12.5,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1878,
+            "lng": 103.9739,
+            "sog": 12.7,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1931,
+            "lng": 103.9901,
+            "sog": 12.9,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367400840",
+        "vessel_name": "DRY TORTUGAS",
+        "imo": "IMO9585089",
+        "callsign": "WDE8043",
+        "vessel_type": "other",
+        "vessel_type_code": 99,
+        "lat": 1.1624,
+        "lng": 103.9034,
+        "sog": 0.0,
+        "cog": 265.2,
+        "heading": 119,
+        "status": "anchored",
+        "length": 49.0,
+        "width": 12.0,
+        "draft": 3.7,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1624,
+            "lng": 103.9034,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1624,
+            "lng": 103.9034,
+            "sog": -0.2,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1624,
+            "lng": 103.9034,
+            "sog": 0.4,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "368222160",
+        "vessel_name": "SALLY LAPEYRE",
+        "imo": "IMO1313275",
+        "callsign": "WDM6099",
+        "vessel_type": "other",
+        "vessel_type_code": 99,
+        "lat": 1.1932,
+        "lng": 104.0361,
+        "sog": 10.6,
+        "cog": 74.0,
+        "heading": 74,
+        "status": "underway",
+        "length": 227.0,
+        "width": 22.0,
+        "draft": 2.9,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1851,
+            "lng": 104.0078,
+            "sog": 11.1,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1891,
+            "lng": 104.022,
+            "sog": 10.4,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1932,
+            "lng": 104.0361,
+            "sog": 10.7,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "319106300",
+        "vessel_name": "LEUDIN I",
+        "imo": "IMO9710127",
+        "callsign": "ZGFM6",
+        "vessel_type": "cargo",
+        "vessel_type_code": 70,
+        "lat": 1.2009,
+        "lng": 104.0255,
+        "sog": 0.1,
+        "cog": 311.2,
+        "heading": 348,
+        "status": "anchored",
+        "length": 40.0,
+        "width": 8.0,
+        "draft": 2.5,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2007,
+            "lng": 104.0257,
+            "sog": 0.0,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2008,
+            "lng": 104.0256,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2009,
+            "lng": 104.0255,
+            "sog": -0.6,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "368174460",
+        "vessel_name": "VAN PORT",
+        "imo": "IMO0000529",
+        "callsign": "WDL8948",
+        "vessel_type": "other",
+        "vessel_type_code": 99,
+        "lat": 1.1735,
+        "lng": 104.0852,
+        "sog": 3.8,
+        "cog": 278.3,
+        "heading": 280,
+        "status": "maneuvering",
+        "length": 209.0,
+        "width": 22.0,
+        "draft": 2.8,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.172,
+            "lng": 104.0956,
+            "sog": 3.7,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1727,
+            "lng": 104.0904,
+            "sog": 4.0,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1735,
+            "lng": 104.0852,
+            "sog": 4.0,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "240975000",
+        "vessel_name": "KIMOLOS",
+        "imo": "IMO9405540",
+        "callsign": "SVAV7",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.2242,
+        "lng": 104.0509,
+        "sog": 0.2,
+        "cog": 207.6,
+        "heading": 91,
+        "status": "anchored",
+        "length": 183.0,
+        "width": 32.0,
+        "draft": 13.3,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2247,
+            "lng": 104.0512,
+            "sog": 0.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2244,
+            "lng": 104.051,
+            "sog": 0.2,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2242,
+            "lng": 104.0509,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "636016978",
+        "vessel_name": "MSC TAVVISHI",
+        "imo": "IMO9189366",
+        "callsign": "D5IR7",
+        "vessel_type": "passenger",
+        "vessel_type_code": 60,
+        "lat": 1.2268,
+        "lng": 104.0391,
+        "sog": 0.0,
+        "cog": 239.1,
+        "heading": 118,
+        "status": "anchored",
+        "length": 278.0,
+        "width": 40.0,
+        "draft": 13.6,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2268,
+            "lng": 104.0391,
+            "sog": -0.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2268,
+            "lng": 104.0391,
+            "sog": -0.2,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2268,
+            "lng": 104.0391,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "564411000",
+        "vessel_name": "THOR MONADIC",
+        "imo": "IMO9331220",
+        "callsign": "9V8978",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.2124,
+        "lng": 104.0427,
+        "sog": 0.2,
+        "cog": 106.4,
+        "heading": 45,
+        "status": "anchored",
+        "length": 189.0,
+        "width": 32.0,
+        "draft": 12.6,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2126,
+            "lng": 104.0422,
+            "sog": -0.4,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2125,
+            "lng": 104.0424,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2124,
+            "lng": 104.0427,
+            "sog": -0.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "316005616",
+        "vessel_name": "STORM BANDIT",
+        "imo": "IMO8006309",
+        "callsign": "CZ7389",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.2019,
+        "lng": 103.64,
+        "sog": 0.1,
+        "cog": 154.8,
+        "heading": 208,
+        "status": "anchored",
+        "length": 20.0,
+        "width": 8.0,
+        "draft": 3.0,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2022,
+            "lng": 103.6399,
+            "sog": -0.5,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.202,
+            "lng": 103.6399,
+            "sog": -0.1,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2019,
+            "lng": 103.64,
+            "sog": -0.2,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "368210950",
+        "vessel_name": "CHRIS MILLER",
+        "imo": "IMO1307034",
+        "callsign": "WDM4918",
+        "vessel_type": "cargo",
+        "vessel_type_code": 70,
+        "lat": 1.1842,
+        "lng": 104.0506,
+        "sog": 14.4,
+        "cog": 266.6,
+        "heading": 267,
+        "status": "underway",
+        "length": 24.0,
+        "width": 12.0,
+        "draft": 2.7,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1866,
+            "lng": 104.0905,
+            "sog": 14.0,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1854,
+            "lng": 104.0705,
+            "sog": 14.4,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1842,
+            "lng": 104.0506,
+            "sog": 14.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "257435000",
+        "vessel_name": "OSLO BULK 6",
+        "imo": "IMO9589968",
+        "callsign": "LAHC8",
+        "vessel_type": "tug",
+        "vessel_type_code": 52,
+        "lat": 1.209,
+        "lng": 104.0259,
+        "sog": 0.0,
+        "cog": 88.1,
+        "heading": 171,
+        "status": "anchored",
+        "length": 108.0,
+        "width": 18.0,
+        "draft": 4.3,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.209,
+            "lng": 104.0259,
+            "sog": 0.5,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.209,
+            "lng": 104.0259,
+            "sog": 0.1,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.209,
+            "lng": 104.0259,
+            "sog": -0.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "366847780",
+        "vessel_name": "PACIFIC DAWN",
+        "imo": "IMO7400467",
+        "callsign": "WDA7844",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.1758,
+        "lng": 103.9482,
+        "sog": 5.5,
+        "cog": 265.4,
+        "heading": 269,
+        "status": "underway",
+        "length": 32.0,
+        "width": 8.0,
+        "draft": 3.6,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.177,
+            "lng": 103.9634,
+            "sog": 6.0,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1764,
+            "lng": 103.9558,
+            "sog": 5.5,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1758,
+            "lng": 103.9482,
+            "sog": 5.5,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367453020",
+        "vessel_name": "DIRK C",
+        "imo": "IMO7509469",
+        "callsign": "WDF4536",
+        "vessel_type": "cargo",
+        "vessel_type_code": 70,
+        "lat": 1.1987,
+        "lng": 103.859,
+        "sog": 8.4,
+        "cog": 261.2,
+        "heading": 261,
+        "status": "underway",
+        "length": 27.0,
+        "width": 9.0,
+        "draft": 3.3,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2023,
+            "lng": 103.882,
+            "sog": 9.0,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2005,
+            "lng": 103.8705,
+            "sog": 7.9,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1987,
+            "lng": 103.859,
+            "sog": 8.5,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "367665030",
+        "vessel_name": "OCEAN GRAND",
+        "imo": "IMO9681821",
+        "callsign": "WDH9141",
+        "vessel_type": "other",
+        "vessel_type_code": 99,
+        "lat": 1.2038,
+        "lng": 103.716,
+        "sog": 0.4,
+        "cog": 220.6,
+        "heading": 258,
+        "status": "anchored",
+        "length": 170.0,
+        "width": 25.0,
+        "draft": 9.5,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2046,
+            "lng": 103.7167,
+            "sog": -0.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2042,
+            "lng": 103.7164,
+            "sog": 0.4,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2038,
+            "lng": 103.716,
+            "sog": -0.2,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "209513000",
+        "vessel_name": "OCEAN PEARL",
+        "imo": "IMO9060247",
+        "callsign": "C4BQ2",
+        "vessel_type": "bunker",
+        "vessel_type_code": 90,
+        "lat": 1.2104,
+        "lng": 104.0298,
+        "sog": 0.3,
+        "cog": 275.7,
+        "heading": 187,
+        "status": "anchored",
+        "length": 169.0,
+        "width": 27.0,
+        "draft": 9.8,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.2103,
+            "lng": 104.0306,
+            "sog": 0.1,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.2104,
+            "lng": 104.0302,
+            "sog": 0.1,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.2104,
+            "lng": 104.0298,
+            "sog": 0.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "338225000",
+        "vessel_name": "HARVEY ENERGY",
+        "imo": "IMO9654220",
+        "callsign": "KHEK",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.1982,
+        "lng": 103.7599,
+        "sog": 10.2,
+        "cog": 88.7,
+        "heading": 90,
+        "status": "underway",
+        "length": 92.0,
+        "width": 19.0,
+        "draft": 6.1,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1976,
+            "lng": 103.7316,
+            "sog": 10.0,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1979,
+            "lng": 103.7458,
+            "sog": 9.8,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1982,
+            "lng": 103.7599,
+            "sog": 10.5,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "319129600",
+        "vessel_name": "SCORPIO",
+        "imo": "IMO9389071",
+        "callsign": "ZGHE8",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.1762,
+        "lng": 103.8101,
+        "sog": 12.4,
+        "cog": 268.2,
+        "heading": 264,
+        "status": "underway",
+        "length": 244.0,
+        "width": 42.0,
+        "draft": 13.7,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1773,
+            "lng": 103.8445,
+            "sog": 12.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1767,
+            "lng": 103.8273,
+            "sog": 12.7,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1762,
+            "lng": 103.8101,
+            "sog": 12.0,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "368187930",
+        "vessel_name": "ADRIENNE M MOORE",
+        "imo": "IMO101307049",
+        "callsign": "WDM2420",
+        "vessel_type": "cargo",
+        "vessel_type_code": 70,
+        "lat": 1.1806,
+        "lng": 103.9767,
+        "sog": 14.8,
+        "cog": 273.0,
+        "heading": 272,
+        "status": "underway",
+        "length": 207.0,
+        "width": 23.0,
+        "draft": 2.8,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1785,
+            "lng": 104.0177,
+            "sog": 14.8,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1795,
+            "lng": 103.9972,
+            "sog": 14.4,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1806,
+            "lng": 103.9767,
+            "sog": 14.6,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      },
+      {
+        "mmsi": "366995460",
+        "vessel_name": "ATLAS",
+        "imo": "IMO8842258",
+        "callsign": "WDC2601",
+        "vessel_type": "tanker",
+        "vessel_type_code": 80,
+        "lat": 1.1909,
+        "lng": 103.7681,
+        "sog": 11.1,
+        "cog": 81.6,
+        "heading": 80,
+        "status": "underway",
+        "length": 21.0,
+        "width": 7.0,
+        "draft": null,
+        "destination": "SGSIN",
+        "updated_at": "2026-03-19T14:29:55Z",
+        "track": [
+          {
+            "lat": 1.1864,
+            "lng": 103.7376,
+            "sog": 11.2,
+            "ts": "2026-03-19T14:20:00Z"
+          },
+          {
+            "lat": 1.1887,
+            "lng": 103.7529,
+            "sog": 10.9,
+            "ts": "2026-03-19T14:25:00Z"
+          },
+          {
+            "lat": 1.1909,
+            "lng": 103.7681,
+            "sog": 11.1,
+            "ts": "2026-03-19T14:30:00Z"
+          }
+        ]
+      }
+    ]
+  },
+  "api_live_heatmap": {
+    "timestamp": "2026-03-19T14:30:00Z",
+    "grid_resolution_deg": 0.01,
+    "bbox": {
+      "min_lat": 1.1,
+      "min_lng": 103.6,
+      "max_lat": 1.38,
+      "max_lng": 104.1
+    },
+    "cells": [
+      {
+        "lat": 1.19,
+        "lng": 103.66,
+        "vessel_count": 1,
+        "avg_sog": 0.3
+      },
+      {
+        "lat": 1.18,
+        "lng": 103.92,
+        "vessel_count": 1,
+        "avg_sog": 12.4
+      },
+      {
+        "lat": 1.14,
+        "lng": 103.8,
+        "vessel_count": 2,
+        "avg_sog": 0.3
+      },
+      {
+        "lat": 1.24,
+        "lng": 104.04,
+        "vessel_count": 1,
+        "avg_sog": 0.2
+      },
+      {
+        "lat": 1.21,
+        "lng": 104.03,
+        "vessel_count": 3,
+        "avg_sog": 0.1
+      },
+      {
+        "lat": 1.22,
+        "lng": 103.92,
+        "vessel_count": 1,
+        "avg_sog": 10.7
+      },
+      {
+        "lat": 1.24,
+        "lng": 103.84,
+        "vessel_count": 2,
+        "avg_sog": 5.2
+      },
+      {
+        "lat": 1.23,
+        "lng": 103.84,
+        "vessel_count": 1,
+        "avg_sog": 6.0
+      },
+      {
+        "lat": 1.2,
+        "lng": 103.71,
+        "vessel_count": 1,
+        "avg_sog": 0.2
+      },
+      {
+        "lat": 1.2,
+        "lng": 103.65,
+        "vessel_count": 2,
+        "avg_sog": 0.2
+      },
+      {
+        "lat": 1.21,
+        "lng": 103.87,
+        "vessel_count": 1,
+        "avg_sog": 12.7
+      },
+      {
+        "lat": 1.2,
+        "lng": 104.06,
+        "vessel_count": 1,
+        "avg_sog": 7.4
+      },
+      {
+        "lat": 1.23,
+        "lng": 104.05,
+        "vessel_count": 1,
+        "avg_sog": 0.0
+      },
+      {
+        "lat": 1.22,
+        "lng": 103.64,
+        "vessel_count": 1,
+        "avg_sog": 6.9
+      },
+      {
+        "lat": 1.18,
+        "lng": 104.04,
+        "vessel_count": 1,
+        "avg_sog": 5.1
+      },
+      {
+        "lat": 1.2,
+        "lng": 104.05,
+        "vessel_count": 1,
+        "avg_sog": 7.3
+      },
+      {
+        "lat": 1.21,
+        "lng": 103.7,
+        "vessel_count": 1,
+        "avg_sog": 0.1
+      },
+      {
+        "lat": 1.24,
+        "lng": 104.02,
+        "vessel_count": 1,
+        "avg_sog": 0.2
+      },
+      {
+        "lat": 1.22,
+        "lng": 103.82,
+        "vessel_count": 1,
+        "avg_sog": 12.2
+      },
+      {
+        "lat": 1.25,
+        "lng": 103.81,
+        "vessel_count": 1,
+        "avg_sog": 6.9
+      },
+      {
+        "lat": 1.22,
+        "lng": 104.09,
+        "vessel_count": 2,
+        "avg_sog": 0.4
+      },
+      {
+        "lat": 1.21,
+        "lng": 103.72,
+        "vessel_count": 1,
+        "avg_sog": 3.6
+      },
+      {
+        "lat": 1.19,
+        "lng": 104.07,
+        "vessel_count": 1,
+        "avg_sog": 4.0
+      },
+      {
+        "lat": 1.22,
+        "lng": 103.67,
+        "vessel_count": 1,
+        "avg_sog": 4.7
+      },
+      {
+        "lat": 1.23,
+        "lng": 104.03,
+        "vessel_count": 1,
+        "avg_sog": 0.2
+      },
+      {
+        "lat": 1.21,
+        "lng": 104.07,
+        "vessel_count": 1,
+        "avg_sog": 0.2
+      },
+      {
+        "lat": 1.16,
+        "lng": 103.86,
+        "vessel_count": 1,
+        "avg_sog": 0.1
+      },
+      {
+        "lat": 1.19,
+        "lng": 103.99,
+        "vessel_count": 1,
+        "avg_sog": 12.3
+      },
+      {
+        "lat": 1.16,
+        "lng": 103.9,
+        "vessel_count": 1,
+        "avg_sog": 0.0
+      },
+      {
+        "lat": 1.19,
+        "lng": 104.04,
+        "vessel_count": 1,
+        "avg_sog": 10.6
+      },
+      {
+        "lat": 1.2,
+        "lng": 104.03,
+        "vessel_count": 1,
+        "avg_sog": 0.1
+      },
+      {
+        "lat": 1.17,
+        "lng": 104.09,
+        "vessel_count": 1,
+        "avg_sog": 3.8
+      },
+      {
+        "lat": 1.22,
+        "lng": 104.05,
+        "vessel_count": 1,
+        "avg_sog": 0.2
+      },
+      {
+        "lat": 1.23,
+        "lng": 104.04,
+        "vessel_count": 1,
+        "avg_sog": 0.0
+      },
+      {
+        "lat": 1.21,
+        "lng": 104.04,
+        "vessel_count": 1,
+        "avg_sog": 0.2
+      },
+      {
+        "lat": 1.2,
+        "lng": 103.64,
+        "vessel_count": 1,
+        "avg_sog": 0.1
+      },
+      {
+        "lat": 1.18,
+        "lng": 104.05,
+        "vessel_count": 1,
+        "avg_sog": 14.4
+      },
+      {
+        "lat": 1.18,
+        "lng": 103.95,
+        "vessel_count": 1,
+        "avg_sog": 5.5
+      },
+      {
+        "lat": 1.2,
+        "lng": 103.86,
+        "vessel_count": 1,
+        "avg_sog": 8.4
+      },
+      {
+        "lat": 1.2,
+        "lng": 103.72,
+        "vessel_count": 1,
+        "avg_sog": 0.4
+      },
+      {
+        "lat": 1.2,
+        "lng": 103.76,
+        "vessel_count": 1,
+        "avg_sog": 10.2
+      },
+      {
+        "lat": 1.18,
+        "lng": 103.81,
+        "vessel_count": 1,
+        "avg_sog": 12.4
+      },
+      {
+        "lat": 1.18,
+        "lng": 103.98,
+        "vessel_count": 1,
+        "avg_sog": 14.8
+      },
+      {
+        "lat": 1.19,
+        "lng": 103.77,
+        "vessel_count": 1,
+        "avg_sog": 11.1
+      }
+    ]
+  },
+  "api_historical_cargo_total": {
+    "unit": "thousand_tonnes",
+    "source": "MPA via data.gov.sg",
+    "data": [
+      {
+        "month": "2024-02",
+        "cargo_throughput": 49988.64
+      },
+      {
+        "month": "2024-03",
+        "cargo_throughput": 53680.86
+      },
+      {
+        "month": "2024-04",
+        "cargo_throughput": 54059.42
+      },
+      {
+        "month": "2024-05",
+        "cargo_throughput": 54916.76
+      },
+      {
+        "month": "2024-06",
+        "cargo_throughput": 50946.71
+      },
+      {
+        "month": "2024-07",
+        "cargo_throughput": 52199.85
+      },
+      {
+        "month": "2024-08",
+        "cargo_throughput": 52024.2
+      },
+      {
+        "month": "2024-09",
+        "cargo_throughput": 49938.25
+      },
+      {
+        "month": "2024-10",
+        "cargo_throughput": 50350.69
+      },
+      {
+        "month": "2024-11",
+        "cargo_throughput": 50066.65
+      },
+      {
+        "month": "2024-12",
+        "cargo_throughput": 53350.56
+      },
+      {
+        "month": "2025-01",
+        "cargo_throughput": 48889.72
+      },
+      {
+        "month": "2025-02",
+        "cargo_throughput": 46880.7
+      },
+      {
+        "month": "2025-03",
+        "cargo_throughput": 52361.64
+      },
+      {
+        "month": "2025-04",
+        "cargo_throughput": 49776.86
+      },
+      {
+        "month": "2025-05",
+        "cargo_throughput": 52855.52
+      },
+      {
+        "month": "2025-06",
+        "cargo_throughput": 49908.47
+      },
+      {
+        "month": "2025-07",
+        "cargo_throughput": 54462.68
+      },
+      {
+        "month": "2025-08",
+        "cargo_throughput": 53007.93
+      },
+      {
+        "month": "2025-09",
+        "cargo_throughput": 51457.76
+      },
+      {
+        "month": "2025-10",
+        "cargo_throughput": 53347.81
+      },
+      {
+        "month": "2025-11",
+        "cargo_throughput": 50563.31
+      },
+      {
+        "month": "2025-12",
+        "cargo_throughput": 50839.82
+      },
+      {
+        "month": "2026-01",
+        "cargo_throughput": 55266.91
+      }
+    ]
+  },
+  "api_historical_cargo_breakdown": {
+    "unit": "thousand_tonnes",
+    "source": "MPA via data.gov.sg",
+    "categories": {
+      "primary": [
+        "General Cargo",
+        "Bulk Cargo"
+      ],
+      "secondary": [
+        "Containerised",
+        "Conventional",
+        "Oil",
+        "Non-Oil Bulk"
+      ]
+    },
+    "data": [
+      {
+        "month": "2024-02",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 28465.61
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2548.75
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 16802.0
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2172.28
+          }
+        ]
+      },
+      {
+        "month": "2024-03",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 31609.63
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 1937.72
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 18088.45
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2045.06
+          }
+        ]
+      },
+      {
+        "month": "2024-04",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 31492.02
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 1883.28
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 17542.81
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 3141.31
+          }
+        ]
+      },
+      {
+        "month": "2024-05",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 33092.54
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2058.6
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 16877.8
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2887.81
+          }
+        ]
+      },
+      {
+        "month": "2024-06",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 30962.99
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2030.61
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 15676.09
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2277.01
+          }
+        ]
+      },
+      {
+        "month": "2024-07",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 32535.15
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2421.27
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 14458.6
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2784.83
+          }
+        ]
+      },
+      {
+        "month": "2024-08",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 32332.64
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2469.57
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 14694.95
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2527.04
+          }
+        ]
+      },
+      {
+        "month": "2024-09",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 29886.09
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2338.79
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 14940.26
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2773.11
+          }
+        ]
+      },
+      {
+        "month": "2024-10",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 30840.67
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2342.87
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 14530.22
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2636.94
+          }
+        ]
+      },
+      {
+        "month": "2024-11",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 28653.08
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2589.52
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 16405.75
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2418.3
+          }
+        ]
+      },
+      {
+        "month": "2024-12",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 30463.03
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2586.22
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 17050.76
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 3250.56
+          }
+        ]
+      },
+      {
+        "month": "2025-01",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 29576.29
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2438.56
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 14459.15
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2398.62
+          }
+        ]
+      },
+      {
+        "month": "2025-02",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 27432.08
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2244.24
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 14633.91
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2570.47
+          }
+        ]
+      },
+      {
+        "month": "2025-03",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 31018.83
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2675.52
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 15949.33
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2717.95
+          }
+        ]
+      },
+      {
+        "month": "2025-04",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 30719.02
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2264.94
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 14229.48
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2563.42
+          }
+        ]
+      },
+      {
+        "month": "2025-05",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 31935.46
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2651.82
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 15574.53
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2693.71
+          }
+        ]
+      },
+      {
+        "month": "2025-06",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 30156.75
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2583.02
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 14648.71
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2519.99
+          }
+        ]
+      },
+      {
+        "month": "2025-07",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 31378.35
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2626.31
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 18180.26
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2277.77
+          }
+        ]
+      },
+      {
+        "month": "2025-08",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 31577.18
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2654.76
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 15388.03
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 3387.96
+          }
+        ]
+      },
+      {
+        "month": "2025-09",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 30088.26
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2739.6
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 16111.25
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2518.65
+          }
+        ]
+      },
+      {
+        "month": "2025-10",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 31161.99
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2847.24
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 16568.66
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2769.92
+          }
+        ]
+      },
+      {
+        "month": "2025-11",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 30568.3
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2601.99
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 14805.49
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2587.53
+          }
+        ]
+      },
+      {
+        "month": "2025-12",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 31926.8
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 2875.43
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 13291.05
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 2746.54
+          }
+        ]
+      },
+      {
+        "month": "2026-01",
+        "breakdown": [
+          {
+            "primary": "General Cargo",
+            "secondary": "Containerised",
+            "throughput": 31628.63
+          },
+          {
+            "primary": "General Cargo",
+            "secondary": "Conventional",
+            "throughput": 3704.8
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Oil",
+            "throughput": 16341.36
+          },
+          {
+            "primary": "Bulk Cargo",
+            "secondary": "Non-Oil Bulk",
+            "throughput": 3592.13
+          }
+        ]
+      }
+    ]
+  },
+  "api_historical_container": {
+    "unit": "thousand_TEUs",
+    "source": "MPA via data.gov.sg",
+    "data": [
+      {
+        "month": "2024-02",
+        "container_throughput": 3171.92
+      },
+      {
+        "month": "2024-03",
+        "container_throughput": 3491.71
+      },
+      {
+        "month": "2024-04",
+        "container_throughput": 3388.59
+      },
+      {
+        "month": "2024-05",
+        "container_throughput": 3537.81
+      },
+      {
+        "month": "2024-06",
+        "container_throughput": 3353.67
+      },
+      {
+        "month": "2024-07",
+        "container_throughput": 3574.24
+      },
+      {
+        "month": "2024-08",
+        "container_throughput": 3606.54
+      },
+      {
+        "month": "2024-09",
+        "container_throughput": 3292.82
+      },
+      {
+        "month": "2024-10",
+        "container_throughput": 3505.21
+      },
+      {
+        "month": "2024-11",
+        "container_throughput": 3340.79
+      },
+      {
+        "month": "2024-12",
+        "container_throughput": 3554.62
+      },
+      {
+        "month": "2025-01",
+        "container_throughput": 3496.89
+      },
+      {
+        "month": "2025-02",
+        "container_throughput": 3316.59
+      },
+      {
+        "month": "2025-03",
+        "container_throughput": 3735.8
+      },
+      {
+        "month": "2025-04",
+        "container_throughput": 3628.14
+      },
+      {
+        "month": "2025-05",
+        "container_throughput": 3829.11
+      },
+      {
+        "month": "2025-06",
+        "container_throughput": 3708.91
+      },
+      {
+        "month": "2025-07",
+        "container_throughput": 3866.86
+      },
+      {
+        "month": "2025-08",
+        "container_throughput": 3864.91
+      },
+      {
+        "month": "2025-09",
+        "container_throughput": 3763.99
+      },
+      {
+        "month": "2025-10",
+        "container_throughput": 3828.47
+      },
+      {
+        "month": "2025-11",
+        "container_throughput": 3705.04
+      },
+      {
+        "month": "2025-12",
+        "container_throughput": 3919.0
+      },
+      {
+        "month": "2026-01",
+        "container_throughput": 3892.37
+      }
+    ]
+  },
+  "api_historical_vessel_calls": {
+    "unit_calls": "count",
+    "unit_tonnage": "thousand_GT",
+    "source": "MPA via data.gov.sg",
+    "data": [
+      {
+        "month": "2024-02",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3545,
+            "gross_tonnage": 96125.08
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 98,
+            "gross_tonnage": 1108.95
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3359,
+            "gross_tonnage": 186159.63
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2458,
+            "gross_tonnage": 115567.77
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 5884,
+            "gross_tonnage": 128173.81
+          }
+        ]
+      },
+      {
+        "month": "2024-03",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3859,
+            "gross_tonnage": 100188.54
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 149,
+            "gross_tonnage": 1428.79
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3495,
+            "gross_tonnage": 191495.07
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2523,
+            "gross_tonnage": 120415.3
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6388,
+            "gross_tonnage": 136303.03
+          }
+        ]
+      },
+      {
+        "month": "2024-04",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3680,
+            "gross_tonnage": 99635.15
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 138,
+            "gross_tonnage": 1785.81
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3389,
+            "gross_tonnage": 186455.57
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2364,
+            "gross_tonnage": 104994.46
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6010,
+            "gross_tonnage": 125740.85
+          }
+        ]
+      },
+      {
+        "month": "2024-05",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3904,
+            "gross_tonnage": 100536.3
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 135,
+            "gross_tonnage": 2386.47
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3532,
+            "gross_tonnage": 196942.17
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2503,
+            "gross_tonnage": 118679.92
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6386,
+            "gross_tonnage": 141249.71
+          }
+        ]
+      },
+      {
+        "month": "2024-06",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3579,
+            "gross_tonnage": 92639.64
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 111,
+            "gross_tonnage": 1170.12
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3353,
+            "gross_tonnage": 179625.87
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2281,
+            "gross_tonnage": 103176.68
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6100,
+            "gross_tonnage": 128566.97
+          }
+        ]
+      },
+      {
+        "month": "2024-07",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3903,
+            "gross_tonnage": 100325.73
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 108,
+            "gross_tonnage": 1436.45
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3557,
+            "gross_tonnage": 197636.9
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2443,
+            "gross_tonnage": 113581.04
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6383,
+            "gross_tonnage": 139149.44
+          }
+        ]
+      },
+      {
+        "month": "2024-08",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3851,
+            "gross_tonnage": 99902.95
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 147,
+            "gross_tonnage": 1561.17
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3536,
+            "gross_tonnage": 195169.77
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2488,
+            "gross_tonnage": 115694.16
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6481,
+            "gross_tonnage": 136454.07
+          }
+        ]
+      },
+      {
+        "month": "2024-09",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3738,
+            "gross_tonnage": 98165.72
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 148,
+            "gross_tonnage": 1534.29
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3267,
+            "gross_tonnage": 175960.82
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2417,
+            "gross_tonnage": 108678.5
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6148,
+            "gross_tonnage": 130184.34
+          }
+        ]
+      },
+      {
+        "month": "2024-10",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3901,
+            "gross_tonnage": 103315.09
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 149,
+            "gross_tonnage": 2018.72
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3452,
+            "gross_tonnage": 191190.2
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2369,
+            "gross_tonnage": 107444.36
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6367,
+            "gross_tonnage": 136689.64
+          }
+        ]
+      },
+      {
+        "month": "2024-11",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3788,
+            "gross_tonnage": 102461.16
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 116,
+            "gross_tonnage": 1070.4
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3296,
+            "gross_tonnage": 184499.73
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2401,
+            "gross_tonnage": 106512.08
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6211,
+            "gross_tonnage": 138427.21
+          }
+        ]
+      },
+      {
+        "month": "2024-12",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3807,
+            "gross_tonnage": 107442.08
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 114,
+            "gross_tonnage": 866.76
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3543,
+            "gross_tonnage": 196269.81
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2558,
+            "gross_tonnage": 114995.67
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6404,
+            "gross_tonnage": 133532.72
+          }
+        ]
+      },
+      {
+        "month": "2025-01",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3756,
+            "gross_tonnage": 106451.43
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 102,
+            "gross_tonnage": 446.93
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3580,
+            "gross_tonnage": 201236.12
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2478,
+            "gross_tonnage": 110501.91
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6361,
+            "gross_tonnage": 135265.02
+          }
+        ]
+      },
+      {
+        "month": "2025-02",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3505,
+            "gross_tonnage": 95165.76
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 113,
+            "gross_tonnage": 951.32
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3075,
+            "gross_tonnage": 168390.0
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2165,
+            "gross_tonnage": 93507.2
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 5956,
+            "gross_tonnage": 123477.5
+          }
+        ]
+      },
+      {
+        "month": "2025-03",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3793,
+            "gross_tonnage": 106445.9
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 107,
+            "gross_tonnage": 789.4
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3522,
+            "gross_tonnage": 189035.9
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2349,
+            "gross_tonnage": 104320.2
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6504,
+            "gross_tonnage": 135643.7
+          }
+        ]
+      },
+      {
+        "month": "2025-04",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 3759,
+            "gross_tonnage": 105244.7
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 135,
+            "gross_tonnage": 955.2
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3504,
+            "gross_tonnage": 194172.2
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2208,
+            "gross_tonnage": 99739.7
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6303,
+            "gross_tonnage": 131924.6
+          }
+        ]
+      },
+      {
+        "month": "2025-05",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 4196,
+            "gross_tonnage": 114382.72
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 138,
+            "gross_tonnage": 1281.37
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3637,
+            "gross_tonnage": 200529.92
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2354,
+            "gross_tonnage": 103744.33
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6739,
+            "gross_tonnage": 139170.1
+          }
+        ]
+      },
+      {
+        "month": "2025-06",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 4060,
+            "gross_tonnage": 111855.56
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 85,
+            "gross_tonnage": 941.49
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3402,
+            "gross_tonnage": 188861.42
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2224,
+            "gross_tonnage": 98867.05
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6512,
+            "gross_tonnage": 133843.38
+          }
+        ]
+      },
+      {
+        "month": "2025-07",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 4125,
+            "gross_tonnage": 112983.47
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 100,
+            "gross_tonnage": 1195.54
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3651,
+            "gross_tonnage": 206115.73
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2331,
+            "gross_tonnage": 110071.2
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6760,
+            "gross_tonnage": 146179.97
+          }
+        ]
+      },
+      {
+        "month": "2025-08",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 4094,
+            "gross_tonnage": 113058.95
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 115,
+            "gross_tonnage": 964.61
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3608,
+            "gross_tonnage": 201825.41
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2332,
+            "gross_tonnage": 109660.79
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6715,
+            "gross_tonnage": 139433.86
+          }
+        ]
+      },
+      {
+        "month": "2025-09",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 4007,
+            "gross_tonnage": 109767.17
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 117,
+            "gross_tonnage": 1377.87
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3518,
+            "gross_tonnage": 191200.84
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2311,
+            "gross_tonnage": 103643.66
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6663,
+            "gross_tonnage": 133678.05
+          }
+        ]
+      },
+      {
+        "month": "2025-10",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 4198,
+            "gross_tonnage": 115827.93
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 115,
+            "gross_tonnage": 872.4
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3753,
+            "gross_tonnage": 203495.88
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2388,
+            "gross_tonnage": 111413.05
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6918,
+            "gross_tonnage": 142616.77
+          }
+        ]
+      },
+      {
+        "month": "2025-11",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 4134,
+            "gross_tonnage": 111677.96
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 109,
+            "gross_tonnage": 1175.53
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3632,
+            "gross_tonnage": 200849.46
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2360,
+            "gross_tonnage": 111567.19
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 6822,
+            "gross_tonnage": 142186.09
+          }
+        ]
+      },
+      {
+        "month": "2025-12",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 4229,
+            "gross_tonnage": 116067.7
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 115,
+            "gross_tonnage": 753.12
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3721,
+            "gross_tonnage": 206934.56
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2424,
+            "gross_tonnage": 116806.79
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 7234,
+            "gross_tonnage": 144935.55
+          }
+        ]
+      },
+      {
+        "month": "2026-01",
+        "by_purpose": [
+          {
+            "purpose": "Cargo",
+            "vessel_calls": 4314,
+            "gross_tonnage": 119289.11
+          },
+          {
+            "purpose": "Repairs",
+            "vessel_calls": 102,
+            "gross_tonnage": 538.4
+          },
+          {
+            "purpose": "Bunkers",
+            "vessel_calls": 3778,
+            "gross_tonnage": 210383.37
+          },
+          {
+            "purpose": "Supplies",
+            "vessel_calls": 2448,
+            "gross_tonnage": 115882.23
+          },
+          {
+            "purpose": "Others",
+            "vessel_calls": 7264,
+            "gross_tonnage": 142766.47
+          }
+        ]
+      }
+    ]
+  }
+}
