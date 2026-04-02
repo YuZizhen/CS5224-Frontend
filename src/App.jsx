@@ -1,6 +1,17 @@
+import { useEffect, useState } from 'react';
 import ShipMap from './components/ShipMap';
-import mockShips from './data/mockShips';
+import { getMockShips } from './data/mockShips';
 
 export default function App() {
-  return <ShipMap ships={mockShips} />;
+  const [ships, setShips] = useState(getMockShips());
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setShips(getMockShips());
+    }, 10000);
+
+    return () => clearInterval(interval);
+  }, []);
+
+  return <ShipMap ships={ships} />;
 }
