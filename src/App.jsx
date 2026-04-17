@@ -1,8 +1,10 @@
 import { useEffect, useState } from 'react';
+import { Authenticator } from '@aws-amplify/ui-react';
+import { fetchAuthSession } from 'aws-amplify/auth';
 import ShipMap from './components/ShipMap';
 import { fetchLiveVessels } from './services/api';
 
-export default function App() {
+function AppContent() {
   const [ships, setShips] = useState([]);
   const [error, setError] = useState('');
   const [lastUpdated, setLastUpdated] = useState(null);
@@ -12,7 +14,14 @@ export default function App() {
 
     const loadShips = async () => {
       try {
-        const vesselData = await fetchLiveVessels();
+        const session = await fetchAuthSession();
+        const token = session.tokens?.idToken?.toString();
+
+        if (!token) {
+          throw new Error('No auth token found');
+        }
+
+        const vesselData = await fetchLiveVessels(token);
 
         if (!isMounted) return;
 
@@ -21,7 +30,6 @@ export default function App() {
         setLastUpdated(new Date().toLocaleTimeString());
       } catch (err) {
         console.error('Failed to fetch vessels:', err);
-
         if (!isMounted) return;
         setError('Unable to load vessel data.');
       }
@@ -54,5 +62,13 @@ export default function App() {
 
       <ShipMap ships={ships} />
     </>
+  );
+}
+
+export default function App() {
+  return (
+    <Authenticator>
+      <AppContent />
+    </Authenticator>
   );
 }

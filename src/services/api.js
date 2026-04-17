@@ -1,40 +1,17 @@
 import { transformVessels } from './transform';
 
-// Change this when using real API
-const USE_MOCK = false;
+const API_BASE_URL =
+  'https://wa8v5iats6.execute-api.ap-southeast-1.amazonaws.com/prod';
 
-const CONFIG = {
-  mock: {
-    baseUrl: 'http://localhost:8080',
-    liveVesselsPath: '/api_live_vessels',
-    token: null,
-  },
-  real: {
-    baseUrl: 'https://wa8v5iats6.execute-api.ap-southeast-1.amazonaws.com/prod',
-    liveVesselsPath: '/api/live/vessels',
-    token: null, // 以后放真实 JWT
-  },
-};
-
-function getCurrentConfig() {
-  return USE_MOCK ? CONFIG.mock : CONFIG.real;
-}
-
-export async function fetchLiveVessels() {
-  const config = getCurrentConfig();
-  const url = `${config.baseUrl}${config.liveVesselsPath}`;
-
-  const headers = {
-    'Content-Type': 'application/json',
-  };
-
-  if (config.token) {
-    headers.Authorization = `Bearer ${config.token}`;
-  }
+export async function fetchLiveVessels(token) {
+  const url = `${API_BASE_URL}/api/live/vessels`;
 
   const response = await fetch(url, {
     method: 'GET',
-    headers,
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${token}`,
+    },
   });
 
   if (!response.ok) {
