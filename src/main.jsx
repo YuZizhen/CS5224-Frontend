@@ -4,6 +4,7 @@ import { Amplify } from 'aws-amplify';
 import App from './App';
 import amplifyConfig from './amplify-config';
 import '@aws-amplify/ui-react/styles.css';
+import 'leaflet/dist/leaflet.css';
 
 Amplify.configure(amplifyConfig);
 
