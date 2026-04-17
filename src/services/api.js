@@ -1,7 +1,7 @@
 import { transformVessels } from './transform';
 
 // Change this when using real API
-const USE_MOCK = true;
+const USE_MOCK = false;
 
 const CONFIG = {
   mock: {
@@ -10,7 +10,7 @@ const CONFIG = {
     token: null,
   },
   real: {
-    baseUrl: 'https://{api-gateway-id}.execute-api.ap-southeast-1.amazonaws.com/prod',
+    baseUrl: 'https://wa8v5iats6.execute-api.ap-southeast-1.amazonaws.com/prod',
     liveVesselsPath: '/api/live/vessels',
     token: null, // 以后放真实 JWT
   },
